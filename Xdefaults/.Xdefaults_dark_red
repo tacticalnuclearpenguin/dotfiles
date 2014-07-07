@@ -1,0 +1,72 @@
+!-------------------------------------------------------------------------------
+!!! XFT SETTINGS !!!
+!-------------------------------------------------------------------------------
+     
+Xft.dpi: 96
+Xft.antialias: true
+Xft.rgba: rgb
+Xft.hinting: true
+Xft.hintstyle: hintslight
+
+     
+!-------------------------------------------------------------------------------
+!!! URXVT SETTINGS !!!
+!-------------------------------------------------------------------------------
+
+URxvt*geometry: 100x40
+URxvt*internalBorder: 8
+URxvt*borderLess: false
+URxvt*scrollBar: false
+URxvt*cursorBlink: true
+URxvt*cursorUnderline: true
+URxvt*scrollColor: #181513
+URxvt.underlineURLs: true
+
+URxvt.url-select.underline: true
+
+!-------------------------------------------------------------------------------
+!!! THEME !!!
+!-------------------------------------------------------------------------------
+*font:         xft:Termsyn:size=12:style=Regular
+*boldFont:      xft:Termsyn:size=12:style=Bold
+
+*cursorColor: #917154
+!*colorIT: #E3AB8D
+!*colorBD: #F0E5DF
+!*colorUL: #cd546c
+*VT100.colorBDMode: false
+*VT100.colorBD: blue
+*VT100.colorULMode: true
+*VT100.colorUL: blue
+*VT100.veryBoldColors: 6
+
+
+    
+
+!colors:
+!!scheme: pnevma
+!!*foreground: #696969
+!!*background: #282626
+!*foreground: #6F6767
+*foreground: #C3AE93
+!*background: #3A3636
+!*background: #322628
+*background: #2B2B29
+*color0: #363636
+*color8: #424242
+*color1: #C37561
+*color9: #D19485
+*color2: #A0A57E
+*color10: #B6B99D
+*color3: #D1A375
+*color11: #DEBC9C
+*color4: #7985A3
+*color12: #98A1B9
+*color5: #AB716D
+*color13: #BE918E
+*color6: #98B9B1
+*color14: #CBE6CB
+*color7: #D0D0D0
+*color15: #E6E6E6
+
+
