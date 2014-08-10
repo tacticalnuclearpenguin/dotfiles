@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-#DarkRedTheme Config files
+Misc config files
