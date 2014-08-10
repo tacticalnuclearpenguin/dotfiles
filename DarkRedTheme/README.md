@@ -1,4 +1,4 @@
 DarkRedTheme
 ============
 
-![TEXT](/screens/scr1.png "Busy1")
+![TEXT](/DarkRedTheme/screens/scr1.png "Busy1")
